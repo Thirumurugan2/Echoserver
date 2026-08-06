@@ -68,7 +68,8 @@ print("Server replied:", data.decode())
 ```
 
 ## OUTPUT:
-<img width="1920" height="1103" alt="ethical hacking" src="https://github.com/user-attachments/assets/2a13c3ca-ebef-447a-b674-71ed82d67357" />
+<img width="1600" height="819" alt="WhatsApp Image 2026-08-05 at 11 22 55 PM" src="https://github.com/user-attachments/assets/7a0ee331-e5f5-456a-ba3c-aedd499b1ead" />
+
 
 ## RESULT:
 The program is executed succesfully
